@@ -43,11 +43,11 @@ NOTE: if during your implementation you&#39;ll find that something could be desi
 ways, just implement the one which seems most reasonable to you and if you could provide a short (once
 sentence) reasoning why you choose this way and not another one, it would be great.
 
-Don’t over engineer the solution
-Keep it simple
-Make sure it’s tested
-If you make any assumptions, then make sure you include them in the readme file
-They like simple, clean, declarative tested-driven code
-Code should be production quality
-They like to see some demonstration of OOP principles
+- Don’t over engineer the solution
+- Keep it simple
+- Make sure it’s tested
+- If you make any assumptions, then make sure you include them in the readme file
+- They like simple, clean, declarative tested-driven code
+- Code should be production quality
+ -They like to see some demonstration of OOP principles
 
