@@ -29,16 +29,19 @@ Our ‘Live Order Board’ should provide us the following summary information:
 The first thing to note here is that orders for the same price should be merged together (even when they
 are from different users). In this case it can be seen that order a) and d) were for the same amount (£306)
 and this is why only their sum (5.5 kg) is displayed (for £306) and not the individual orders (3.5 kg and 2.0
-kg).The last thing to note is that for SELL orders the orders with lowest prices are displayed first.
+kg).
+
+The last thing to note is that for SELL orders the orders with lowest prices are displayed first.
 Opposite is true for the BUY orders.
+
 Please provide the implementation of the live order board which will be packaged and shipped as a library
 to be used by the UI team. No database or UI/WEB is needed for this assignment (we&#39;re absolutely fine
 with in memory solution). The only important thing is that you just write it according to your normal
 standards.
+
 NOTE: if during your implementation you&#39;ll find that something could be designed in multiple different
 ways, just implement the one which seems most reasonable to you and if you could provide a short (once
 sentence) reasoning why you choose this way and not another one, it would be great.
-
 
 Don’t over engineer the solution
 Keep it simple
