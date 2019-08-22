@@ -3,6 +3,7 @@
 Coding test for Credit Suisse
 
 Interview exercise
+
 Imagine you&#39;re working as a programmer for a company called Silver Bars Marketplace and you have just
 received a new requirement. In it we would like to display to our users how much demand for silver bars
 there is on the market.
