@@ -8,9 +8,9 @@ import java.util.UUID;
 @Value
 @Builder
 public class Order {
-    private final String id = UUID.randomUUID().toString();
-    private final String userId;
-    private final double quantity;
-    private final long price;
-    private final OrderType orderType;
+    String id = UUID.randomUUID().toString();
+    String userId;
+    double quantity;
+    long price;
+    OrderType orderType;
 }

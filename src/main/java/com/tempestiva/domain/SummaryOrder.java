@@ -6,7 +6,7 @@ import lombok.Value;
 @Value
 @Builder
 public class SummaryOrder {
-    private final double quantity;
-    private final long price;
-    private final OrderType orderType;
+    double quantity;
+    long price;
+    OrderType orderType;
 }
